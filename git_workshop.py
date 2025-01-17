@@ -8,7 +8,7 @@ def square_num(num_a):
 
 def func2(num_b):
     # placeholder return, replace with your own function
-    return -1
+    return num_b*2
 
 # both people should modify this function
 def func3(num_a, num_b):
