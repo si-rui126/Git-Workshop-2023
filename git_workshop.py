@@ -11,9 +11,10 @@ def func2(num_b):
     return num_b*2
 
 # both people should modify this function
-def func3(num_a, num_b):
+def sum(num_a, num_b):
     # do something with inputs and print something
     print("placeholder output")
+    return num_a + num_b
 
 a = 1
 b = 1
